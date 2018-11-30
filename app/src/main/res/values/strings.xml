@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MoviesApp</string>
+    <string name="genre">Genre of %s</string>
+    <string name="movie">Movie : %s</string>
+
+    <string name="api_key">a2a1be61349fc54d408be6073ddf66e0</string>
+    <string name="web_service_url">https://api.themoviedb.org/3/genre/movie/list?</string>
+
+    <string name="web_service_url_movies">https://api.themoviedb.org/3/discover/movie?</string>
+    <string name="web_service_url_description">https://api.themoviedb.org/3/movie/</string>
+
+</resources>
